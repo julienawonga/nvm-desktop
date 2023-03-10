@@ -23,28 +23,14 @@ class MainWindow(QWidget):
         tab = QTabWidget(self)
 
         # info page
-        info_page = QWidget(self)
-        layout = QGridLayout()
-        info_page.setLayout(layout)
-        layout.addWidget(QLabel('Info Page:'), 0, 0)
-
+        
         # use page
-        use_page = QWidget(self)
-        layout = QGridLayout()
-        use_page.setLayout(layout)
-        layout.addWidget(QLabel('Use Page:'), 0, 0)
+        
 
         # install page
-        install_page = QWidget(self)
-        layout = QGridLayout()
-        install_page.setLayout(layout)
-        layout.addWidget(QLabel('Installation Page:'), 0, 0)
-
+        
         # remove page
-        remove_page = QWidget(self)
-        layout = QGridLayout()
-        remove_page.setLayout(layout)
-        layout.addWidget(QLabel('Remove Page:'), 0, 0)
+        
 
 
         # add pane to the tab widget
@@ -57,7 +43,32 @@ class MainWindow(QWidget):
 
         self.show()
 
+    def infoPage(self):
+        info_page = QWidget(self)
+        layout = QGridLayout()
+        info_page.setLayout(layout)
+        layout.addWidget(QLabel('Info Page:'), 0, 0)
 
+    def usePage(self):
+        use_page = QWidget(self)
+        layout = QGridLayout()
+        use_page.setLayout(layout)
+        layout.addWidget(QLabel('Use Page:'), 0, 0)
+
+    def installPage(self):
+        install_page = QWidget(self)
+        layout = QGridLayout()
+        install_page.setLayout(layout)
+        layout.addWidget(QLabel('Installation Page:'), 0, 0)
+
+    def removePage(self):
+        remove_page = QWidget(self)
+        layout = QGridLayout()
+        remove_page.setLayout(layout)
+        layout.addWidget(QLabel('Remove Page:'), 0, 0)
+        
+    def ui():
+        pass
 
 if __name__ == '__main__':
     app = QApplication(sys.argv)
