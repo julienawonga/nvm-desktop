@@ -83,7 +83,7 @@ git clone https://github.com/julienawon/nvm-desktop.git
 2. Navigate to the project directory:
 
 ```sh
-cd nvm-desktop-app
+cd nvm-desktop
 ```
 
 3. Install the required dependencies:
