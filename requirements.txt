@@ -1,0 +1,12 @@
+altgraph==0.17.3
+certifi @ file:///croot/certifi_1671487769961/work/certifi
+click==7.1.2
+pyinstaller==5.8.0
+pyinstaller-hooks-contrib==2023.0
+PyQt6==6.1.0
+pyqt6-plugins==6.1.0.2.2
+PyQt6-Qt6==6.4.2
+PyQt6-sip==13.4.1
+python-dotenv==1.0.0
+qt6-applications==6.1.0.2.2
+qt6-tools==6.1.0.1.2
