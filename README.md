@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/julienawon/nvm-desktop">
-    <img src="./logo.png" alt="Logo" width="80" height="80">
+    <img src="./logo.png" alt="Logo" >
   </a>
 
   <h3 align="center">This is a desktop application for managing Node.js versions using Node Version Manager (NVM) built with PyQt6.</h3>
