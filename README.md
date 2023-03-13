@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/julienawon/nvm-desktop">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="./logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">This is a desktop application for managing Node.js versions using Node Version Manager (NVM) built with PyQt6.</h3>
@@ -38,7 +38,6 @@
 
 ## About The Project
 
-![Screen Shot](images/screenshot.png)
 
 The NVM (Node Version Manager) desktop app with PyQt6 is a software application that enables users to manage multiple versions of Node.js on their computer. The app will allow users to easily switch between different versions of Node.js, install and uninstall different versions, and manage their Node.js packages.
 
