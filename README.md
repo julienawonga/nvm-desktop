@@ -126,6 +126,6 @@ Distributed under the MIT License. See [LICENSE](https://github.com/julienawon/n
 
 ## Authors
 
-* **Julien AWON'GA** - *CS Student* - [Julien AWON'GA](https://github.com/julienawon) - *Built ReadME Template*
+* **Julien AWON'GA** - *CS Student* - [Julien AWON'GA](https://github.com/julienawon)
 
 ## Acknowledgements
